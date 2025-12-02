@@ -1,13 +1,8 @@
-DeepSeek
 OpenAI
 ChatGPT
-Sora
 Claude
 Anthropic
 Gemini
-DeepMind
-Perplexity
-Mistral
 @15
 
 微软
@@ -17,9 +12,6 @@ Google
 Meta
 +AI
 +模型
-+发布
-!股价
-!大跌
 @8
 
 英伟达
@@ -27,47 +19,27 @@ NVIDIA
 AMD
 台积电
 +芯片
-+显卡
 +AI
-!测评
-!价格
 @5
 
-iphone
-ipad
-mac
-ios
-Vision Pro
-!水果
-!价格
-!手机壳
-!降价
-@5
-
-AI
-人工智能
-大模型
-生成式AI
-AIGC
-LLM
-!gai
-!概念股
-!卖课
-!教程
-@10
+Apple
+苹果
+iPhone
++AI
++智能
++发布
+@3
 
 机器人
 人形机器人
 波士顿动力
 自动驾驶
-无人驾驶
 FSD
 Robotaxi
 Waymo
 特斯拉
-!扫地
-!玩具
-!吸尘器
++技术
++发布
 @5
 
 SpaceX
@@ -77,37 +49,26 @@ NASA
 CNSA
 神舟
 嫦娥
-天问
-蓝源
-Blue Origin
-火箭
-载人航天
-!特价
-!机票
-@10
+长征
++发射
++任务
++成功
+@8
 
 月球
-登月
 火星
 宇宙
 黑洞
-引力波
 韦伯
-望远镜
 星系
-天文学
-!星座
-!运势
-!水逆
-!占星
++发现
++观测
++研究
 @5
 
 量子计算
-超导
-核聚变
+可控核聚变
 脑机接口
 Neuralink
 6G
-+突破
-+发布
 @5
